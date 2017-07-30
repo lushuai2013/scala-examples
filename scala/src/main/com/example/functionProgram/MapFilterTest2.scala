@@ -1,4 +1,4 @@
-package main.scala.functionProgram
+package com.example.functionProgram
 
 /**
   * Created by lushuai on 16-10-6.

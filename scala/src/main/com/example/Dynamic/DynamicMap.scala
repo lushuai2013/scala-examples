@@ -1,4 +1,4 @@
-package main.scala.Dynamic
+package com.example.Dynamic
 
 import scala.language.dynamics
 

@@ -1,4 +1,5 @@
-package main.scala.SimpleApp
+package com.example.SimpleApp
+
 import org.apache.spark.SparkConf
 /**
   * Created by lushuai on 16-10-8.

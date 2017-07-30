@@ -1,4 +1,4 @@
-package main.scala.functionProgram
+package com.example.functionProgram
 
 /**
   *
